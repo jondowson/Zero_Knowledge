@@ -1,0 +1,12 @@
+- Zero-knowledge | Scalable | Transparent | Argument-of-knowledge.
+	- ZK-STARKs are _scalable_ because proving and verifying complexity scale _quasilinearly_ in relation to computation complexity. 
+	- With ZK-SNARKs, proving and verification complexity scale _linearly_ in relation to the underlying computation.
+	- This simply means ZK-SNARK protocols require more time to produce and verify proofs than ZK-STARKs when the computation we need to verify is larger. This is why STARKs are better suited to applications that handle large volumes of transactions.
+- Enhanced Security.
+	- ZK-STARKs use collision-resistant hashes for encryption instead of the elliptic curve schemes used in ZK-SNARKs. 
+	- This is considered resistant to quantum computing attacks, making it more secure than the elliptic curves used in SNARKs.
+- Proofs are larger than Snarks (128-288bytes) at around 40-50kb.
+	- More costly to send over networks.
+- Does not require a trusted setup.
+	- ZK-STARK is considered transparent because it can work without a trusted setup of a Common Reference String (CRS). 
+	- Instead, STARK protocols use publicly verifiable randomness to set up interactions between provers and verifiers.

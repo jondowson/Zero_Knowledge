@@ -1,0 +1,6 @@
+ - Assumes all transactions are good.
+ - A validator will creates a challengeable fraud-proof.
+	 - This is a lightweight non-resource intensive operation.
+	 - This is fact checkable by other enitites/people.
+ - On the L1 (e.g. Ethereum) a checker will validate the set of transactions in the fraud-proof.
+	 - Bad transactions in the fraud-proof will result in its original validator being penalised.
