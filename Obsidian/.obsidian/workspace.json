@@ -67,8 +67,12 @@
             "id": "11f1231efd9219ea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Rollups/Non-Polynomial approaches.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -138,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rollups/Non-Polynomial approaches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rollups/Non-Polynomial approaches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rollups/Non-Polynomial approaches.md"
+              }
             }
           }
         ]
@@ -197,8 +205,8 @@
   },
   "active": "11f1231efd9219ea",
   "lastOpenFiles": [
-    "Rollups/Example - R1CS.md",
     "Rollups/Bulletproofs.md",
+    "Rollups/Example - R1CS.md",
     "Rollups/Why use homomorphic approaches.md",
     "Rollups/Non-Polynomial approaches.md",
     "Rollups/Homomorphic Encryption.md",
