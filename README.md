@@ -11,7 +11,7 @@ Academic institutions are particular affected by the status quo as much of their
 
 ### The Proposal.
 
-A better approach would be to encourage participation in the patent process through streamlined processes and financial incentives.
+A better approach would be to encourage participation in the patent process through streamlined processes and financial incentives.    
 This could be achieved with an IP marketplace that facilitates frictionless collabortation.     
 This would be an enabling technology to speed up product / process development between multiple parties.        
 This proposal would leverages blockchain and its core technologies as a trust platform.    
