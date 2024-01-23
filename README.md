@@ -13,9 +13,9 @@ Academic institutions are particular affected by the status quo as much of their
 
 A better approach would be to encourage participation in the patent process through streamlined processes and financial incentives.    
 This could be achieved with an IP marketplace that facilitates frictionless collabortation.     
-This would be an enabling technology to speed up product / process development between multiple parties.        
-This proposal would leverages blockchain and its core technologies as a trust platform.    
-- [ ] Blockchain - so no one party has any advantage over the other (trustless platform). 
+This would be an enabling technology to speed up product / process development between multiple parties and would leverage blockchain technologies.    
+
+- [ ] Blockchain - the trustless collaboration platform where no one party has any advantage over the other. 
 - [ ] Zero Knowledge Proofs (ZKP) - capture intellectual property as meta data.
 - [ ] Smart contracts - automate the legal and financial aspects of collaboration in a transparent and fair way.
 
