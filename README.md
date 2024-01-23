@@ -6,7 +6,7 @@
 
 The development of Intellectual property (IP) is expensive and time consuming.     
 Patent offices around the world were conceived in a different era and struggle to keep apace with the rapid advancement of technology.    
-In addition, its legal nature tends to reward Goliath over David and puts many off with engaging with the process.     
+In addition, its legal nature tends to reward Goliath over David and discourages many to engage with the process.     
 Academic institutions are particular affected by the status quo as much of their income relies on IP and collaboration with Industry.    
 
 ### The Proposal.
