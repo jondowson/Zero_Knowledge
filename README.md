@@ -43,6 +43,7 @@ A platform that provides these services.
     - Choose smart contracts to govern product development and IP ownership.
     - Submit IP safely via ZKP and formal definitions.
 3. A ZKP service for efficient computation and comparison.
+4. Integration with patent offices.
 
 Multiple parties can then colloborate on a project, where each must deliver a portion of IP.       
 Each party can proove their IP conforms to its formal specification without revealing it.      
