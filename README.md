@@ -2,7 +2,7 @@
 
 ## Idea 1 - Atomic IP
 
-### The Problem
+### The Problem.
 
 The development of Intellectual property (IP) is expensive and time consuming.     
 Patent offices around the world were conceived in a different era and struggle to keep apace with the rapid advancement of technology.    
