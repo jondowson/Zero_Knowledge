@@ -31,6 +31,13 @@ The structure and atomic nature of the approach enables.
 - [ ] A fairer model of IP sharing that allows for greater granularity of IP ownership.
 - [ ] Increased exposure for exisitng IP and new income streams. 
 
+### Data Sets.
+- [ ] Medical data sets can be straight forward to verify.
+- [ ] Facilitate pooling of datasets - multiple parties can share smaller sets.
+- [ ] Can address the placebo problem of clinical trials involving death.
+- [ ] Data linkage - the integrity and value of data cleansing steps and its initial capture.
+- [ ] Addresses the issue of same patient, different unique id across data sets.
+
 ### The Platform.
 
 A platform that provides these services.    
@@ -50,4 +57,8 @@ Each party can proove their IP conforms to its formal specification without reve
 The final product is governed by smart contracts and financial / legal considerations are awarded.    
 Other teams can ask to use any of these portions of IP for their products and royalties can be earned.    
 
+### Proof of Concept.
+
+1. Compete with existing offerings.
+2. Innovate new approaches / techniques.
    
