@@ -3,8 +3,8 @@
 ## Idea 1 - Atomic IP
 
 A marketplace for IP and as well a means of multi party trustless collabortation.    
-An enabling technology to speed up product / process development through collaboration.    
-Leverages blockchain as a trust platform for collaboration.    
+An enabling technology to speed up product / process development.    
+Leverages blockchain as a trust platform.    
 - [ ] Blockchain - so no one party has any advantage over the other. 
 - [ ] Zero Knowledge Proofs (ZKP) - capture intellectual property as meta data.
 - [ ] Smart contracts - automate the processes around collaboration in a transparent and fair way.
@@ -32,9 +32,11 @@ A platform that provides these services.
     - Create a new project and invite parties to join.
     - Choose smart contracts to govern product development and IP ownership.
     - Submit IP safely via ZKP and formal definitions.
+3. A ZKP service for efficient computation and comparison.
 
 Multiple parties can then colloborate on a project, where each must deliver a portion of IP.       
 Each party can proove their IP conforms to its formal specification without revealing it.      
 The final product is governed by smart contracts and financial / legal considerations are awarded.    
-Other teams can ask to use any of these portions of IP for their products and royalties can be earned.     
+Other teams can ask to use any of these portions of IP for their products and royalties can be earned.    
+
    
